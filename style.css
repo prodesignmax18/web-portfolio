@@ -1,4 +1,5 @@
 body{
+    margin: 0%;
     font-family: 'Gloock', serif;
 }
 h1{
@@ -16,4 +17,22 @@ h1{
 }
 .half-widght img{
     width: 100%;
+}
+.top-banner{
+
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background: rgb(190,25,139);
+    background: linear-gradient(45deg, rgb(221, 2, 122) 20%, rgba(219,0,0,1) 84%);
+    padding: 10px 20px;
+    border-radius: 8px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
 }
