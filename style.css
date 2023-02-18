@@ -1,0 +1,19 @@
+body{
+    font-family: 'Gloock', serif;
+}
+h1{
+    font-size: 40px;
+
+}
+.name-highlight{
+    color:red;
+}
+.half-widght{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-widght img{
+    width: 100%;
+}
